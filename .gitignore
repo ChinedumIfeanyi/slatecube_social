@@ -1,3 +1,8 @@
+# dotenv environment variables file
+.env
+#build
+client/dist
+
 # Logs
 logs
 *.log
@@ -54,8 +59,6 @@ typings/
 # Yarn Integrity file
 .yarn-integrity
 
-# dotenv environment variables file
-.env
 
 # next.js build output
 .next
